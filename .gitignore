@@ -5,7 +5,8 @@
 *.exe
 env/lib/python3.10/site-packages/
 env/
-.gitignore
+tmp/
+*.bak
 
 ### Linux ###
 *~
